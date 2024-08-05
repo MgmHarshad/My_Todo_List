@@ -55,4 +55,5 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     // end of the script
+    // end of the script
 });
